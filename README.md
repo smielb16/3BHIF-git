@@ -3,4 +3,4 @@ My first git repository
 
 Seas chrissi da
 
-Seas, du was anders
+Seas, du Chrissi
